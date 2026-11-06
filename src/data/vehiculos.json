@@ -1,0 +1,20 @@
+[
+    {
+        "tipo": "Camioneta",
+        "patente": "SVNM45",
+        "marca": "TOYOTA",
+        "modelo": "HILUX",
+        "anio": 2022,
+        "disponible": true,
+        "capacidadCarga": 1000
+    },
+    {
+        "tipo": "Refrigerado",
+        "patente": "EFGH34",
+        "marca": "JAC",
+        "modelo": "Refrigerado",
+        "anio": 2022,
+        "disponible": true,
+        "temperaturaMaxima": 5
+    }
+]

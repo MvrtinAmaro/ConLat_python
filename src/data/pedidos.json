@@ -1,0 +1,13 @@
+[
+    {
+        "id": "PED-1",
+        "rut_cliente": "22124552-2",
+        "estado": "Pendiente",
+        "detalles": [
+            {
+                "id_producto": "2",
+                "cantidad": 1
+            }
+        ]
+    }
+]
